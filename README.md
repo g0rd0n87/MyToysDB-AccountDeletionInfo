@@ -1,0 +1,2 @@
+# MyToysDB-AccountDeletionInfo
+AccountDeletionInfo
